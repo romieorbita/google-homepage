@@ -82,3 +82,20 @@ footer{
     width:24px;
     height:24px;
 }
+
+#google-search{
+    margin: 10px auto;
+    display: block;
+    border: 100;
+    height: 30px;
+    width: 500px;
+    border-radius: 25px;
+}
+
+.lucky{
+    margin-left: 260px;
+}
+
+.google-left{
+    margin-left: 200px;
+}
